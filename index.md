@@ -1,3 +1,3 @@
-# Welcome to my blog
+WELCOME TO MY #BLOG
 
-I'm glad you are here. I plan to talk about ...
+IM SO EXCITED >TO START BLOGGING< TO U ALL!

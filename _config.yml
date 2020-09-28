@@ -4,8 +4,8 @@ email: that's a secret duh...
 description: Here's my 1st BLOG and well U'll see what it's about ;)
   
 theme: minima
-# social links
+
 twitter_username: that's another secret...
 github_username:  Kapoon974
 
-show_excerpts: true # set to false to remove excerpts on the homepage
+show_excerpts: true 
